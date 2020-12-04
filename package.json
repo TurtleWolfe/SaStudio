@@ -1,0 +1,27 @@
+{
+  "name": "schedulingtemplate-main",
+  "version": "1.0.0",
+  "description": "Scheduling Template",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtleWolf/CRUDgames.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "GitHub-Pages",
+    "Calendly"
+  ],
+  "author": "TurtleWolfe.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TurtleWolf/CRUDgames/issues"
+  },
+  "homepage": "https://CRUDgames.com",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
