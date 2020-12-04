@@ -1,27 +1,30 @@
 {
-  "name": "schedulingtemplate-main",
+  "name": "sastudio.org",
   "version": "1.0.0",
-  "description": "Scheduling Template",
+  "description": "SaStudio.org",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d Dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurtleWolf/CRUDgames.git"
+    "url": "git+https://github.com/TurtleWolfe/SaStudio"
   },
   "keywords": [
     "Node.JS",
     "GitHub-Pages",
-    "Calendly"
+    "Calendly",
+    "SaStudio",
+    "SaStudio.org"
   ],
-  "author": "TurtleWolfe.com",
+  "author": "ScriptHammer.com",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/TurtleWolf/CRUDgames/issues"
+    "url": "https://github.com/TurtleWolfe/SaStudio/issues"
   },
-  "homepage": "https://CRUDgames.com",
+  "homepage": "https://SaStudio.org",
   "dependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "devDependencies": {}
 }
