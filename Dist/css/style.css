@@ -186,15 +186,16 @@ p {
 /* Section C */
 
 #section-c {
-  background: #fff;
   color: #333;
   padding: 2em;
   text-shadow: 1px 1px 1px #000000;
+  /* background: #fff; */
+  background: rgb(201, 208, 192);
   background: linear-gradient(
-    5deg,
-    rgba(228, 208, 10, 0.3) 0%,
-    rgba(184, 115, 51, 0.3) 50%,
-    rgba(228, 208, 10, 0.3) 100%
+    1355deg,
+    rgba(201, 208, 192, 0.3) 0%,
+    rgba(201, 208, 192, 0.6) 50%,
+    rgba(201, 208, 192, 0.3) 100%
   );
 }
 #section-c h2,
