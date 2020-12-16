@@ -17,9 +17,17 @@ body {
 
 img {
   display: block;
+  margin: auto;
+  /* width: 100%; */
+  /* height: auto; */
+  /* box-shadow: inset 9px 9px 19px rgba(0, 0, 0, 0.5); */
+}
+
+.cimg {
+  display: block;
   width: 100%;
   height: auto;
-  box-shadow: inset 9px 9px 19px rgba(0, 0, 0, 0.5);
+  /* box-shadow: inset 9px 9px 19px rgba(0, 0, 0, 0.5); */
 }
 
 h1,
@@ -193,9 +201,9 @@ p {
   background: rgb(201, 208, 192);
   background: linear-gradient(
     1355deg,
-    rgba(201, 208, 192, 0.3) 0%,
-    rgba(201, 208, 192, 0.6) 50%,
-    rgba(201, 208, 192, 0.3) 100%
+    rgba(201, 208, 192, 0.01) 0%,
+    rgba(201, 208, 192, 0.01) 50%,
+    rgba(201, 208, 192, 0.01) 100%
   );
 }
 #section-c h2,
